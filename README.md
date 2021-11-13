@@ -35,8 +35,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Demonstrate your understanding of this week's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 1. In 1-2 sentences, explain what React's `useRouteMatch` hook is used for.
+
+React Router provides a hook, useRouteMatch(), that makes it easy to build relative route paths and link locations, creating more generalized and flexible code.
+
 1. How would you explain form validation to someone who has never programmed before?
+
+It is a way to double check the infomation you have.
+
 1. In 1-2 sentences, define end to end testing.
+
+What is End to End Testing? End to end testing (E2E testing) refers to a software testing method that involves testing an application's workflow from beginning to end.  This method basically aims to replicate real user scenarios so that the system can be validated for integration and data integrity.
 
 ## Instructions
 
